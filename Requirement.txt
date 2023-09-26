@@ -1,0 +1,8 @@
+tensorflow-gpu==2.5.0
+python==3.6.13
+cudatoolkit==11.2.2
+cudnn==8.1.0.77
+scikit-learn==0.24.2
+matplotlib==3.3.4
+pandas==1.1.5
+keras==2.5.0rc0
