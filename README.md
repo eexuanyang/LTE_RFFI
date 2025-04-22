@@ -4,7 +4,7 @@ This project sets up an LTE device radio frequency fingerprint identification sy
 If the part of the dataset/codes contributes to your project, please cite:
 
 ```
-[1] X. Yang and D. Li, "LED-RFF: LTE DMRS-Based Channel Robust Radio Frequency Fingerprint Identification Scheme," in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 1855-1869, 2024, doi: 10.1109/TIFS.2023.3343079.
+[1] X. Yang and D. Li, "LED-RFF: LTE DMRS-Based Channel Robust Radio Frequency Fingerprint Identification Scheme," in IEEE Trans. Inf. Forensics Secur., vol. 19, pp. 1855-1869, 2024, doi: 10.1109/TIFS.2023.3343079.
 ```
 # Note
 The neural network [InceptionTime](https://github.com/hfawaz/InceptionTime) is adopted and modified in this project.
